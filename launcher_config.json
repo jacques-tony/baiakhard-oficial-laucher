@@ -24,6 +24,6 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 		}
 	],
 	"clientFolder": "PhoenixClient",
-	"newClientUrl" : "https://github.com/jacques-tony/LaucherPhoenixBeta/releases/download/1.0/PhoenixLaucherBeta.zip",
+	"newClientUrl" : "https://github.com/jacques-tony/LaucherPhoenixBeta/releases/download/2.0/PhoenixLaucherBeta.zip",
 	"clientExecutable": "client.exe"
 }
