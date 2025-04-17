@@ -18,7 +18,7 @@ namespace CanaryLauncherUpdate
 {
 	public partial class SplashScreen : Window
 	{
-		static string launcerConfigUrl = "https://raw.githubusercontent.com/jacques-tony/phoenixlaucher/main/launcher_config.json";
+		static string launcerConfigUrl = "https://raw.githubusercontent.com/jacques-tony/baiakhard-oficial-laucher/refs/heads/main/launcher_config.json";
 		// Load informations of launcher_config.json file
 		static ClientConfig clientConfig = ClientConfig.loadFromFile(launcerConfigUrl);
 

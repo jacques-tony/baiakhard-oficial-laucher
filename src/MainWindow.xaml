@@ -17,7 +17,7 @@
 		ResizeMode="NoResize"
 		WindowState="Normal"
 		WindowStartupLocation="CenterScreen"
-		Title="Tibia Launcher"
+		Title="Hard Baiak Launcher"
 		Loaded="TibiaLauncher_Load">
     <Grid>
         <Grid.ColumnDefinitions>
@@ -203,7 +203,7 @@
 					HorizontalAlignment="Center"
 					FontFamily="Verdana"
 					FontSize="16"
-					Foreground="#c65232" IsEnabled="False" FontWeight="Bold">Welcome to Closed Beta!</TextBlock>
+					Foreground="#c65232" IsEnabled="False" FontWeight="Bold"><Run Text="Welcome to "/><Run Language="pt-br" Text="Hard Baiak"/></TextBlock>
                 <Grid
 					Grid.Row="1"
 					Margin="10, 3, 10, 3">
@@ -219,8 +219,7 @@
 						x:Name="hintsBox"
 						Foreground="#bfbfbf"
 						FontFamily="Verdana"
-						FontSize="12" Width="437" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center" TextWrapping="WrapWithOverflow">It is with great enthusiasm that we invite you to be one of the first to explore this world of adventures and challenges.<LineBreak/>
-						Be part of creating this new chapter in the Phoenix OT story.</TextBlock>
+						FontSize="12" Width="437" TextAlignment="Center" VerticalAlignment="Center" HorizontalAlignment="Center" TextWrapping="WrapWithOverflow" Text="It is with great enthusiasm that we welcome you, another explorer of this world of adventures and challenges that is Hard Baiak!"/>
                 </Grid>
 
             </Grid>
