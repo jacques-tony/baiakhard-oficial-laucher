@@ -24,6 +24,6 @@ NOTE: Set it to "false" or only "" to not use the client folder, so everything w
 		}
 	],
 	"clientFolder": "HardBaiakClient",
-	"newClientUrl" : "https://github.com/jacques-tony/baiakhard-oficial-client/archive/refs/heads/main.zip",
+	"newClientUrl" : "https://github.com/jacques-tony/baiakhard-oficial-laucher/releases/download/1.0/HardBaiakClient.zip",
 	"clientExecutable": "client.exe"
 }
